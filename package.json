@@ -1,0 +1,12 @@
+{
+  "id": "telefuel-u",
+  "name": "Telefuel (unofficial)",
+  "version": "0.1.0",
+  "description": "Telefuel (unofficial)",
+  "main": "index.js",
+  "author": "Vladyslav Samotoy <me@vldsx.com>",
+  "license": "GNU GPLv3",
+  "config": {
+    "serviceURL": "https://www.telefuel.com/chats"
+  }
+}
